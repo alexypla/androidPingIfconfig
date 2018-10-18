@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ejercicio2prosp</string>
+    <string name="ifconfig">ifconfig</string>
+    <string name="pingini">inicia ping</string>
+    <string name="pingstop">deten ping</string>
+</resources>
